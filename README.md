@@ -1,4 +1,4 @@
-A python library to display images in the terminal. With colloboration with @pranavbaburaj
+Visit the library from @pranavbaburaj/img repository. A python library to display images in the terminal. With colloboration with @pranavbaburaj.
 
 <div align="center">
 <h1><b><code>Img</code></b></h1>
